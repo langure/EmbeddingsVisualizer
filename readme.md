@@ -1,1 +1,3 @@
-# Hello world 2
+# Embeddings Visualizer
+
+Remember to add the .env file with your own credentials
