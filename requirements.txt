@@ -167,6 +167,7 @@ pyrsistent=0.18.1=py39hb18efdd_1
 pysocks=1.7.1=py39h2804cbe_5
 python=3.9.13=hc596b02_0_cpython
 python-dateutil=2.8.2=pyhd8ed1ab_0
+python-dotenv=0.20.0=pypi_0
 python-fastjsonschema=2.15.3=pyhd8ed1ab_0
 python_abi=3.9=2_cp39
 pytz=2022.1=pyhd8ed1ab_0
