@@ -1,3 +1,5 @@
 .env
 __pycache__/twitter_reader.cpython-39.pyc
 .vscode/launch.json
+json_data.json
+__pycache__/listener.cpython-39.pyc
